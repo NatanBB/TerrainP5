@@ -1,6 +1,6 @@
 # 🌵TerrainP5🌵
 
-A simple infinite terrain generator using PT
+A simple infinite terrain generator using P5
 
 You can visualize cloning this repository and running with Live Server in VScode
 
